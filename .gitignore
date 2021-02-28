@@ -1,2 +1,5 @@
 !df_lat_long.csv
 *.csv
+.DS_Store
+.idea
+.ipynb_checkpoints
